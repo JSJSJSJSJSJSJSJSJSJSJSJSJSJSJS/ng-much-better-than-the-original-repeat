@@ -17,7 +17,17 @@ angular.module('repeatApp', [])
             'l',
             'm',
             'n',
-            'o'
+            'o',
+            'p',
+            'q',
+            'r',
+            's',
+            't',
+            'u',
+            'v',
+            'x',
+            'y',            
+            'z' 
         ];
     })
 
